@@ -1,7 +1,5 @@
 # Case para Desenvolvedor Java VSM
 
-![Logo](http://www.vsm.com.br/img/logo-vsm.png)
-
 [VSM Informática] (https://www.vsm.com.br).
 
 ## Case
